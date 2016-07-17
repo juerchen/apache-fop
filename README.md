@@ -14,8 +14,8 @@ Installing (composer)
 
 Add following lines on your **composer.json**
 ```
-"requre":{
-    "goetas/apache-fop": "1.0.*",
+"require":{
+    "juerchen/apache-fop": "1.0.*",
 }
 ```
 
